@@ -1,0 +1,10 @@
+Answer the following questions using the JSON data above. Respond with a JSON array of strings containing your answers.
+
+1. How many animals have a top speed above 90 km/h?
+
+2. Which is the earliest recorded animal in the list?
+
+3. What's the correlation between TopSpeed_kmh and FirstRecordedYear?
+
+4. Draw a scatterplot of TopSpeed_kmh vs. FirstRecordedYear with a dotted red regression line.
+Return as a base-64 encoded data URI, "data:image/png;base64,iVBORw0KG..." under 100,000 bytes.

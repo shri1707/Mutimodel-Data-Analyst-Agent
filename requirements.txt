@@ -1,0 +1,35 @@
+# FastAPI and web framework dependencies
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-multipart==0.0.6
+pydantic==2.5.0
+
+# Data processing and analysis
+pandas==2.1.4
+numpy==1.24.4
+matplotlib==3.7.4
+seaborn==0.13.0
+networkx==3.2.1
+scipy==1.11.4
+plotly==5.17.0
+duckdb==0.9.2
+
+# File processing
+beautifulsoup4==4.12.2
+openpyxl==3.1.2
+xlrd==2.0.1
+
+# HTTP and web scraping
+requests==2.31.0
+aiofiles==23.2.0
+
+# AI/LLM integration
+google-generativeai==0.3.2
+
+# Utility libraries
+python-dotenv==1.0.0
+
+# Development and testing (optional)
+pytest==7.4.3
+pytest-asyncio==0.21.1
+httpx==0.25.2

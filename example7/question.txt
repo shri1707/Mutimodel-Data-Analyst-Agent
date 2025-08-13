@@ -1,0 +1,8 @@
+
+Answer the following questions using the CSV data above. Respond with a JSON array of strings containing your answers.
+
+1. How many buildings in the list are in China?  
+2. Which is the tallest building completed before 2010?  
+3. What's the correlation between `Height_m` and `Year_Completed`?  
+4. Draw a scatterplot of `Height_m` vs. `Year_Completed` with a dotted red regression line.  
+   Return as a base-64 encoded data URI, `"data:image/png;base64,iVBORw0KG..."` under 100,000 bytes.

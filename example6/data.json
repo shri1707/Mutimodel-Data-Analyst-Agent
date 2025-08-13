@@ -1,0 +1,13 @@
+
+[
+  {"Animal": "Cheetah", "TopSpeed_kmh": 120, "Habitat": "Grasslands", "FirstRecordedYear": 1775},
+  {"Animal": "Pronghorn Antelope", "TopSpeed_kmh": 98, "Habitat": "Prairies", "FirstRecordedYear": 1815},
+  {"Animal": "Springbok", "TopSpeed_kmh": 88, "Habitat": "Savannah", "FirstRecordedYear": 1780},
+  {"Animal": "Quarter Horse", "TopSpeed_kmh": 88, "Habitat": "Grasslands", "FirstRecordedYear": 1611},
+  {"Animal": "Wildebeest", "TopSpeed_kmh": 80, "Habitat": "Savannah", "FirstRecordedYear": 1823},
+  {"Animal": "Lion", "TopSpeed_kmh": 80, "Habitat": "Grasslands", "FirstRecordedYear": 1758},
+  {"Animal": "Blackbuck", "TopSpeed_kmh": 80, "Habitat": "Grasslands", "FirstRecordedYear": 1828},
+  {"Animal": "Greyhound", "TopSpeed_kmh": 74, "Habitat": "Domesticated", "FirstRecordedYear": 1800},
+  {"Animal": "Ostrich", "TopSpeed_kmh": 72, "Habitat": "Savannah", "FirstRecordedYear": 1758},
+  {"Animal": "Cape Hunting Dog", "TopSpeed_kmh": 71, "Habitat": "Savannah", "FirstRecordedYear": 1820}
+]
